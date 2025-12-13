@@ -1,5 +1,5 @@
-##                 Hi there I'm zzhzao👋
----
+<center>## Hi there I'm zzhzao👋</center>
+
 <!--
 **zzhzao/zzhzao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
