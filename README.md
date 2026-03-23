@@ -1,51 +1,46 @@
 ### 👋 Hi there! I'm [你的名字/昵称]
 
 #### 🚀 About Me
-- 🔭 I’m currently working on: **[你的当前项目/方向，如：UDP服务开发、云服务器运维、后端应用开发]**
-- 🌱 I’m currently learning: **[学习方向，如：TCP/IP协议栈、云原生技术、Python/Go开发]**
-- 💬 Ask me about: **[擅长领域，如：网络协议、云服务器配置、后端开发、Linux运维]**
-- 📫 How to reach me: **[你的邮箱/社交账号，如：xxx@xxx.com / GitHub @你的用户名]**
-- ⚡ Fun fact: **[趣味标签，如：喜欢折腾云服务器、沉迷网络协议研究、24h跑服务爱好者]**
+- 🔭 I’m currently working on: **[你的当前方向，如：后端开发 / UDP 服务优化 / 云原生应用]**
+- 🌱 I’m currently learning: **[学习方向，如：Go 语言 / 云服务器运维 / TCP/IP 协议深度解析]**
+- 💬 Ask me about: **[擅长领域，如：Linux 运维 / 网络编程 / 云服务器配置 / 后端开发]**
+- 📫 How to reach me: **[你的邮箱/微信/博客链接]**
+- ⚡ Fun fact: **[趣味标签，如：24h 跑服务的云服务器玩家 / 网络协议深度爱好者]**
 
 #### 🛠️ Tech Stack
 | 领域         | 技术栈                                                                 |
 |--------------|------------------------------------------------------------------------|
-| 后端开发     | [如：Python、Go、Java、Node.js]                                        |
-| 网络/运维    | [如：TCP/UDP、Linux、Nginx、阿里云ECS/轻量应用服务器]                  |
-| 工具/框架    | [如：Docker、Git、VS Code、Postman]                                    |
-| 云服务       | [如：阿里云、腾讯云、轻量应用服务器、ECS]                              |
+| 后端         | Python / Go / Java / Node.js                                           |
+| 网络         | TCP/UDP / HTTP/HTTPS / 云服务器运维 / 防火墙/安全组配置                |
+| 工具/环境    | Linux (Ubuntu/CentOS) / Docker / Git / 阿里云/腾讯云 / VS Code         |
+| 其他         | [你的其他技能，如：Shell 脚本 / 性能优化 / 网络抓包分析]               |
 
 #### 📊 GitHub Stats
-![你的GitHub用户名's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight)
+<!-- 动态统计卡片 -->
+![你的GitHub昵称's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub昵称&show_icons=true&theme=radical)
+<!-- 语言统计卡片 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub昵称&layout=compact&theme=radical)
 
-#### 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=你的GitHub用户名&theme=tokyonight)
+#### 🌟 Featured Projects
+- [项目1名称](项目1仓库链接)：**[一句话描述，如：基于 UDP 实现的轻量级通信服务，部署于阿里云轻量服务器]**
+- [项目2名称](项目2仓库链接)：**[一句话描述，如：TCP/IP 协议实战demo，包含三次握手/四次挥手模拟]**
+- [项目3名称](项目3仓库链接)：**[一句话描述，如：云服务器自动化部署脚本（2核4G配置优化）]**
 
-#### ✨ Connect with Me
+#### 📜 Latest Blog Posts
+<!-- 可选：如果有博客可以添加，没有则删除此模块 -->
+<!-- BLOG-POST-LIST:START -->
+- [博客标题1](博客链接1) - 发布时间
+- [博客标题2](博客链接2) - 发布时间
+<!-- BLOG-POST-LIST:END -->
+
+#### 🤝 Connect with Me
 <p align="left">
-  <a href="https://github.com/你的GitHub用户名" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:你的邮箱地址" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <!-- 可选：添加其他社交平台 -->
-  <!--
-  <a href="https://blog.csdn.net/你的CSDN用户名" target="_blank">
-    <img src="https://img.shields.io/badge/CSDN-000000?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN"/>
-  </a>
-  -->
+  <a href="你的GitHub链接" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="你的邮箱链接" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="你的CSDN/掘金链接" target="_blank"><img src="https://img.shields.io/badge/Blog-0078D4?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
 </p>
 
 <!-- 底部装饰 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub用户名&label=Profile%20views&color=0e75b6&style=flat" alt="访问量"/>
+  <img src="https://komarev.com/ghpvc/?username=你的GitHub昵称&label=Profile%20views&color=0e75b6&style=flat" alt="访问量"/>
 </p>
-
-| 仓库   | 功能描述                     |仓库链接|
-| :----- | :-------------------------- | :------|
-|  git |  git新手入门教学      | [git入门](https://github.com/zzhzao/notes/blob/main/Git.md)|
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a></p>
-
