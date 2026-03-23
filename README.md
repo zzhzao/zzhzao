@@ -24,7 +24,7 @@
 #### 🌟 Featured Projects
 - [OJBalancer](https://github.com/zzhzao/OJBalancer)：**[基于负载均衡思想，仿leetcode在线刷题网站]**
 
-#### 📜 Latest Blog Posts
+<!--#### 📜 Latest Blog Posts
 <!-- 可选：如果有博客可以添加，没有则删除此模块 -->
 <!-- BLOG-POST-LIST:START -->
 <!-- - [博客标题1](博客链接1) - 发布时间
@@ -34,11 +34,8 @@
 #### 🤝 Connect with Me
 <p align="left">
   <a href="https://zzhzao.blog.csdn.net/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="你的邮箱链接" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="zhaozehao0202@163.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://zzhzao.blog.csdn.net/" target="_blank"><img src="https://img.shields.io/badge/Blog-0078D4?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
 </p>
 
-<!-- 底部装饰 -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub昵称&label=Profile%20views&color=0e75b6&style=flat" alt="访问量"/>
-</p>
+
