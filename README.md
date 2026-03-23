@@ -1,46 +1,79 @@
-### 👋 Hi there! I'm [你的名字/昵称]
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2C9F6F&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Alex+Cheng;Full-Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
-#### 🚀 About Me
-- 🔭 I’m currently working on: **[你的当前方向，如：后端开发 / UDP 服务优化 / 云原生应用]**
-- 🌱 I’m currently learning: **[学习方向，如：Go 语言 / 云服务器运维 / TCP/IP 协议深度解析]**
-- 💬 Ask me about: **[擅长领域，如：Linux 运维 / 网络编程 / 云服务器配置 / 后端开发]**
-- 📫 How to reach me: **[你的邮箱/微信/博客链接]**
-- ⚡ Fun fact: **[趣味标签，如：24h 跑服务的云服务器玩家 / 网络协议深度爱好者]**
+---
 
-#### 🛠️ Tech Stack
-| 领域         | 技术栈                                                                 |
-|--------------|------------------------------------------------------------------------|
-| 后端         | Python / Go / Java / Node.js                                           |
-| 网络         | TCP/UDP / HTTP/HTTPS / 云服务器运维 / 防火墙/安全组配置                |
-| 工具/环境    | Linux (Ubuntu/CentOS) / Docker / Git / 阿里云/腾讯云 / VS Code         |
-| 其他         | [你的其他技能，如：Shell 脚本 / 性能优化 / 网络抓包分析]               |
+### 🧑‍💻 About Me
 
-#### 📊 GitHub Stats
-<!-- 动态统计卡片 -->
-![你的GitHub昵称's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub昵称&show_icons=true&theme=radical)
-<!-- 语言统计卡片 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub昵称&layout=compact&theme=radical)
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue&hide_border=true&bg_color=0d1117&title_color=2c9f6f&icon_color=2c9f6f&text_color=ffffff" alt="GitHub Stats" />
 
-#### 🌟 Featured Projects
-- [项目1名称](项目1仓库链接)：**[一句话描述，如：基于 UDP 实现的轻量级通信服务，部署于阿里云轻量服务器]**
-- [项目2名称](项目2仓库链接)：**[一句话描述，如：TCP/IP 协议实战demo，包含三次握手/四次挥手模拟]**
-- [项目3名称](项目3仓库链接)：**[一句话描述，如：云服务器自动化部署脚本（2核4G配置优化）]**
+- 🔭 I’m currently working on **cloud-native microservices** & **real-time data platforms**
+- 🌱 Exploring **Rust**, **WebAssembly**, and **AI agents**
+- 👯 Looking to collaborate on **open source tools** that improve developer experience
+- 💬 Ask me about **Node.js**, **Go**, **React**, **K8s**, or **system design**
+- ⚡ Fun fact: I once debugged a production issue for 12 hours — it was a missing comma 🥲
 
-#### 📜 Latest Blog Posts
-<!-- 可选：如果有博客可以添加，没有则删除此模块 -->
-<!-- BLOG-POST-LIST:START -->
-- [博客标题1](博客链接1) - 发布时间
-- [博客标题2](博客链接2) - 发布时间
-<!-- BLOG-POST-LIST:END -->
+<br clear="right"/>
 
-#### 🤝 Connect with Me
-<p align="left">
-  <a href="你的GitHub链接" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="你的邮箱链接" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="你的CSDN/掘金链接" target="_blank"><img src="https://img.shields.io/badge/Blog-0078D4?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
-</p>
+---
 
-<!-- 底部装饰 -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的GitHub昵称&label=Profile%20views&color=0e75b6&style=flat" alt="访问量"/>
-</p>
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=vue-dark&hide_border=true&background=0d1117&stroke=2c9f6f&ring=2c9f6f&fire=2c9f6f&currStreakLabel=2c9f6f" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vue&hide_border=true&bg_color=0d1117&title_color=2c9f6f&text_color=ffffff" alt="Top Languages" />
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/yourusername/project-one">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-one&theme=vue&hide_border=true&bg_color=0d1117&title_color=2c9f6f&icon_color=2c9f6f&text_color=ffffff" />
+  </a>
+  <a href="https://github.com/yourusername/project-two">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-two&theme=vue&hide_border=true&bg_color=0d1117&title_color=2c9f6f&icon_color=2c9f6f&text_color=ffffff" />
+  </a>
+</div>
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.dev)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=2c9f6f&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <br/>
+  <i>✨ Keep building, keep learning ✨</i>
+</div>
