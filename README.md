@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm [你的名字/昵称]
+### 👋 Hi there! I'm zzhzao
 
 #### 🚀 About Me
 - 🔭 I’m currently working on: **[C++后端开发]**
@@ -17,9 +17,9 @@
 
 #### 📊 GitHub Stats
 <!-- 动态统计卡片 -->
-![你的GitHub昵称's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub昵称&show_icons=true&theme=radical)
+![zzhzao's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzhzao&show_icons=true&theme=radical)
 <!-- 语言统计卡片 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub昵称&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzhzao&layout=compact&theme=radical)
 
 #### 🌟 Featured Projects
 - [OJBalancer](https://github.com/zzhzao/OJBalancer)：**[基于负载均衡思想，仿leetcode在线刷题网站]**
