@@ -17,7 +17,7 @@
 
 #### 📊 GitHub Stats
 <!-- 动态统计卡片 -->
-![zzhzao's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzhzao&show_icons=true&theme=radical)
+<!--![zzhzao's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzhzao&show_icons=true&theme=radical) -->
 <!-- 语言统计卡片 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzhzao&layout=compact&theme=radical)
 
