@@ -3,7 +3,7 @@
 #### 🚀 About Me
 - 🔭 I’m currently working on: **[C++后端开发]**
 - 🌱 I’m currently learning: **[TCP/IP 协议深度解析]**
-- 💬 Ask me about: **[Linux 运维 / 网络编程 /后端开发]**
+- 💬 Ask me about: **[网络编程 /后端开发]**
 - 📫 How to reach me: **zhaozehao0202@163.com**
 - ⚡ Fun fact: **冲浪**
 
