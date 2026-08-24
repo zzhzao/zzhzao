@@ -24,6 +24,7 @@
 #### 🌟 Featured Projects
 - [OJBalancer](https://github.com/zzhzao/OJBalancer)：**[基于负载均衡思想，仿leetcode在线刷题网站]**
 - [LLMChat](https://github.com/zzhzao/LLMChat)：**[c++实现仿ai聊天界面]**
+- [ReactorServer](https://github.com/zzhzao/ReactorServer): **[主从Reactor实现的高并发服务器]**
 
 <!--#### 📜 Latest Blog Posts
 <!-- 可选：如果有博客可以添加，没有则删除此模块 -->
