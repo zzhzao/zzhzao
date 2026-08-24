@@ -19,7 +19,7 @@
 <!-- 动态统计卡片 -->
 <!--![zzhzao's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzhzao&show_icons=true&theme=radical) -->
 <!-- 语言统计卡片 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzhzao&layout=compact&theme=radical)
+
 
 #### 🌟 Featured Projects
 - [OJBalancer](https://github.com/zzhzao/OJBalancer)：**[基于负载均衡思想，仿leetcode在线刷题网站]**
